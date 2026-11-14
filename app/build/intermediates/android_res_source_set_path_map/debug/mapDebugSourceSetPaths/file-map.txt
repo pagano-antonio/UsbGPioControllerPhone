@@ -1,0 +1,8 @@
+it.usbgpiocontroller.app-pngs-0 /Users/antoniopagano/UsbGPioControllerPhone/app/build/generated/res/pngs/debug
+it.usbgpiocontroller.app-updated_navigation_xml-1 /Users/antoniopagano/UsbGPioControllerPhone/app/build/generated/updated_navigation_xml/debug
+it.usbgpiocontroller.app-packageDebugResources-2 /Users/antoniopagano/UsbGPioControllerPhone/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+it.usbgpiocontroller.app-packageDebugResources-3 /Users/antoniopagano/UsbGPioControllerPhone/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+it.usbgpiocontroller.app-debug-4 /Users/antoniopagano/UsbGPioControllerPhone/app/build/intermediates/merged_res/debug/mergeDebugResources
+it.usbgpiocontroller.app-debug-5 /Users/antoniopagano/UsbGPioControllerPhone/app/src/debug/res
+it.usbgpiocontroller.app-main-6 /Users/antoniopagano/UsbGPioControllerPhone/app/src/main/res
+gradleHome-0 /Users/antoniopagano/.gradle

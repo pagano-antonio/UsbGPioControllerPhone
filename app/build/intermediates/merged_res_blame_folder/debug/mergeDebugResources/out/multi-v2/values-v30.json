@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "it.usbgpiocontroller.app-mergeDebugResources-30:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/antoniopagano/.gradle/caches/9.6.0/transforms/096481bd75d1d91b28643f694a57f429/transformed/material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
